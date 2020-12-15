@@ -12,7 +12,10 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: red;
+  background-color: lightskyblue;
+  padding-left: .9rem;
+  padding-right: 3rem;
+  width: 92.7%;
 }
 
 .header a {
